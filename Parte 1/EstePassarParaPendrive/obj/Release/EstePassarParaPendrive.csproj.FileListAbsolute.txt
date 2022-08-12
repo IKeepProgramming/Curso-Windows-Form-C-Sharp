@@ -1,0 +1,15 @@
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\bin\Release\EstePassarParaPendrive.exe.config
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\bin\Release\EstePassarParaPendrive.exe
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\bin\Release\EstePassarParaPendrive.pdb
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.csproj.AssemblyReference.cache
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Frm_Mascara.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Frm_Principal.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Frm_ValidaCPF.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Frm_ValidaCPF2.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Frm_ValidaSenha.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.Properties.Resources.resources
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.csproj.GenerateResource.cache
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.csproj.CoreCompileInputs.cache
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.exe
+C:\Users\Torme\Desktop\Pasta rapida - curso- passar para o pen-drive\EstePassarParaPendrive\EstePassarParaPendrive\obj\Release\EstePassarParaPendrive.pdb
