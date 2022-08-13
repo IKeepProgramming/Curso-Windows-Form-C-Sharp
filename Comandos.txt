@@ -1,0 +1,34 @@
+//Adicionando uma tab page na pagina principal de usuario
+            Frm_HelloWorld_UC U = new Frm_HelloWorld_UC();
+            TabPage TB = new TabPage();
+            TB.Name = "Hello World";
+            TB.Text = "Hello World";
+            TB.Controls.Add(U);
+            Tbc_Aplicacoes.TabPages.Add(TB);
+
+//Apagar tabs do projeto
+            if(!(Tbc_Aplicacoes.SelectedTab == null))
+            {
+                Tbc_Aplicacoes.TabPages.Remove(Tbc_Aplicacoes.SelectedTab);
+            }
+
+
+.showDialog -> Apresente uma caixa de dialogo, é uma forma de construir a imagem de um formulário.
+
+.show() -> Para apresentar com o show, temos que usar o formulário MDI mostrando que a instancia é filha do formulario principal, por exemplo se o nome da instancia for f, devemos mostrar que f.mdiParent = this, assim ele mostra que a construção daquele certo formulário é filho do formulário principal.
+
+this.LayoutMdi() -> Define um método de layout para um formulário mdi, o parametro a ser passa é System.Windows.Forms.MdiLayout.(Layout a sua escolha).
+
+Image myImage = (Image)global::CursoWindowsForms.Properties.Resources.ResourceManager.GetObject(nomeImagem); -> Busca a imagem nos recursos do projeto.
+
+Propriedades:
+
+FormBorderStyle -> Altera a borda do formulario no momento que for construido em sua chamada, é muito util pois limita por exemplo o tamanho que a borda pode ter no programa, impossibilitando o usuário de ficar mudando seu tamanho.
+
+MaximizeBos -> Caso seja falso, impossibilita o usuario de deixar a janela em tela cheia.
+
+MinimizeBox -> Empede de minimizar a janela se estiver falso.
+
+Anchor -> Possibilita a você, modificar em quais posições seus componentes podem se deslocar, por exemplo ao deixar a tela cheia, com o anchor se você ancorar a posição right, um botão por exemplo vai esticar seguindo a proporção da janela do formulário.
+
+425; 320

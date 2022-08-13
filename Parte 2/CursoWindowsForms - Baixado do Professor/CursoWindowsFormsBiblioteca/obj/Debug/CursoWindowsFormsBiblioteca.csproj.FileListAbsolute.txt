@@ -1,0 +1,11 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Torme\Desktop\Curso-Windows-Form-C-Sharp\Parte 2\CursoWindowsForms - Baixado do Professor\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
